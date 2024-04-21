@@ -3,4 +3,4 @@ project(laba4_OS)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(laba4_OS targetFile.cpp)
+add_executable(laba4_OS hook.cpp)

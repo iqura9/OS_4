@@ -49,8 +49,8 @@ cmake_ninja_workdir = /home/iqura/CLionProjects/laba4_OS/cmake-build-debug/
 
 build cmake_object_order_depends_target_laba4_OS: phony || CMakeFiles/laba4_OS.dir
 
-build CMakeFiles/laba4_OS.dir/targetFile.cpp.o: CXX_COMPILER__laba4_OS_unscanned_Debug /home/iqura/CLionProjects/laba4_OS/targetFile.cpp || cmake_object_order_depends_target_laba4_OS
-  DEP_FILE = CMakeFiles/laba4_OS.dir/targetFile.cpp.o.d
+build CMakeFiles/laba4_OS.dir/hook.cpp.o: CXX_COMPILER__laba4_OS_unscanned_Debug /home/iqura/CLionProjects/laba4_OS/hook.cpp || cmake_object_order_depends_target_laba4_OS
+  DEP_FILE = CMakeFiles/laba4_OS.dir/hook.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles/laba4_OS.dir
   OBJECT_FILE_DIR = CMakeFiles/laba4_OS.dir
@@ -63,7 +63,7 @@ build CMakeFiles/laba4_OS.dir/targetFile.cpp.o: CXX_COMPILER__laba4_OS_unscanned
 #############################################
 # Link the executable laba4_OS
 
-build laba4_OS: CXX_EXECUTABLE_LINKER__laba4_OS_Debug CMakeFiles/laba4_OS.dir/targetFile.cpp.o
+build laba4_OS: CXX_EXECUTABLE_LINKER__laba4_OS_Debug CMakeFiles/laba4_OS.dir/hook.cpp.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/laba4_OS.dir
   POST_BUILD = :
