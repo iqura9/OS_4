@@ -1,0 +1,3 @@
+/home/iqura/CLionProjects/laba4_OS/cmake-build-debug/CMakeFiles/laba4_OS.dir
+/home/iqura/CLionProjects/laba4_OS/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/iqura/CLionProjects/laba4_OS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
